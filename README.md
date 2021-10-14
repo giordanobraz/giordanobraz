@@ -48,6 +48,9 @@
 </a>
 </p>
 
+### My PC
+![https://valid.x86.fr/cache/banner/jdeg7c-6.png](https://valid.x86.fr/cache/banner/jdeg7c-6.png)
+
 ### Some data
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giordanobraz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
