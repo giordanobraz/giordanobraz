@@ -2,10 +2,10 @@
 
 ### Bio :pen:
 
-<p>My first contact with programming was in my adolescence, modifying <a href="https://ro.gnjoy.com">Ragnarok Online</a> servers. It was love at first sight. </p>
+<p>I was a teenager when I had my first contact with programming, modding <a href="https://ro.gnjoy.com">Ragnarok Online</a> servers. It was love at first sight. </p>
 
 
-<p>Since I finished my IT degree in 2015, I have been working informally as a freelancer. Now, I'm looking for a formal job to keep doing what I love.</p>
+<p>I finished my IT degree back in 2015, and worked a lot as a freelancer. Now, I'm a frontend engineer working for companies abroad. </p>
 
 ### Experience :computer:
 
