@@ -1,24 +1,20 @@
-<h1 align="center">👋 Hi! I'm Giordano.</h1>
+### Hi, I'm Giordano 👋
 
-### Bio :pen:
+  **Fullstack Developer from Brazil** with 10+ years building dynamic web and mobile applications.
 
-<p>I was a teenager when I had my first contact with programming, modding <a href="https://ro.gnjoy.com">Ragnarok Online</a> servers. It was love at first sight. </p>
+  Detail-oriented engineer specialized in **React, Next.js, Angular and TypeScript**, with a track record of dragging legacy systems into the present — and a soft spot for clean, scalable, well-tested code.
 
+  - 🏥 Scaled a hospital management platform to **5,000+ users**
+  - 🏦 Built & maintained API routes for a **major financial institution**
+  - 🔁 Led legacy-to-React rewrites with full unit, integration & E2E test coverage
+  - 🚀 Building **Reporta** — a multi-tenant white-label whistleblowing SaaS (NestJS · GraphQL · Prisma · Next.js)
+  - 🎓 B.Sc. in Information Technology — Universidade Federal do Sul e Sudeste do Pará
+  - 🌎 Experienced working with **international teams** · open to new projects
 
-<p>I finished my IT degree back in 2015, and worked a lot as a freelancer. Now, I'm a frontend engineer working for companies abroad. </p>
+  **Stack**
 
-### My PC
-![https://valid.x86.fr/cache/banner/39rqsn-2.png](https://valid.x86.fr/cache/banner/39rqsn-2.png)
+  `React` · `Next.js` · `Angular` · `TypeScript` · `Node.js` · `NestJS` · `Express` · `GraphQL` · `Prisma` · `PostgreSQL` · `Docker` · `AWS` · `GitHub Actions` · `Playwright`
 
-### Some data
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giordanobraz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  **Connect**
 
-### Thank you for coming!
-<img src="https://media.giphy.com/media/qanrUMM3x50mA/giphy.gif" width="300"/>
-
-
-
-
-
-
-
+  [Portfolio](https://giordano.dev.br) · [LinkedIn](https://www.linkedin.com/in/giordano-bruno-silva/) · [GitHub](https://github.com/giordanobraz)
